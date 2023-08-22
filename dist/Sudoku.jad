@@ -1,0 +1,9 @@
+MIDlet-1: Sudoku,/sudoku.png,Sudoku
+MIDlet-Icon: /sudoku.png
+MIDlet-Jar-Size: 27360
+MIDlet-Jar-URL: Sudoku.jar
+MIDlet-Name: Sudoku
+MIDlet-Vendor: Simone Pernice
+MIDlet-Version: 2.0.4
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

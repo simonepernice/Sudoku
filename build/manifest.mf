@@ -1,0 +1,7 @@
+MIDlet-1: Sudoku,/sudoku.png,Sudoku
+MIDlet-Vendor: Simone Pernice
+MIDlet-Name: Sudoku
+MIDlet-Icon: /sudoku.png
+MIDlet-Version: 2.0.4
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
